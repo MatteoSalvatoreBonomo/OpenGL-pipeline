@@ -1,0 +1,6 @@
+﻿  Analisi delle origini per cercare le dipendenze del modulo...
+  application.cpp
+C:\Users\Usuario\source\repos\OpenGL\OpenGL\include\vertexBuffer.h(5,14): warning C4091: 'static ': ignorato a sinistra di 'vertexBuffer' quando non si dichiara alcuna variabile
+  (compilazione del file di origine 'OpenGL/src/application.cpp')
+  
+  OpenGL.vcxproj -> C:\Users\Usuario\source\repos\OpenGL\x64\Debug\OpenGL.exe

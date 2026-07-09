@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "OpenGL\\x64\\Debug\\vertexBuffer.obj",
+            "outputs": [
+                "OpenGL\\x64\\Debug\\vertexBuffer.h_D01FC391738768A.ifc.dt.module.json",
+                "OpenGL\\x64\\Debug\\vertexBuffer.h_D01FC391738768A.ifc.dt.d.json",
+                "OpenGL\\x64\\Debug\\vertexBuffer.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Usuario\\source\\repos\\OpenGL\\OpenGL\\src\\vertexBuffer.h",
+                    "source-path": "c:\\users\\usuario\\source\\repos\\opengl\\opengl\\src\\vertexbuffer.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
